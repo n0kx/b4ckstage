@@ -1,2 +1,3 @@
-WIFI_SSID = "WIFI_SSID"
-WIFI_PASSWORD = "WIFI_PASSWORD"
+WIFI_SSID = "WingWong"
+WIFI_PASSWORD = "getmeonline"
+PRODUCTION_URL = "https://n0kx.com/b4ckstage/api/"
